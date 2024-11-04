@@ -49,7 +49,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Spiglebach Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/spiglebach/exception-bootstrapper</url>
+            <url>https://maven.pkg.github.com/spiglebach/exception-commons</url>
         </repository>
     </distributionManagement>
 
